@@ -22,9 +22,9 @@ Or Yarn
 
 ### Requirements
   - [leaflet](https://www.npmjs.com/package/leaflet) == v2
-  - [react](https://www.npmjs.com/package/react) >= v16.3
-  - [react-leaflet](https://www.npmjs.com/package/react-leaflet) == v2
-  - [leaflet-ant-path](https://www.npmjs.com/package/leaflet-ant-path) >= v1.1.2
+  - [react](https://www.npmjs.com/package/react) >= v18.0
+  - [react-leaflet](https://www.npmjs.com/package/react-leaflet) == v4
+  - [leaflet-ant-path](https://www.npmjs.com/package/leaflet-ant-path) >= v1.3.0
     
 
 ### Using the plugin
